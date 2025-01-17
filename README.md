@@ -55,14 +55,14 @@ This assignment should prove that a student is able to:
 - [x] All the tasks of the "Specific requirements" section MUST be solved
 - [x] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
   - [x] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
-  - [ ] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+  - [x] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
+  - [x] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
+  - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [x] (Optional) Use `npm run show-report` to see the latest report in the browser
+- [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [x] The code MUST be formatted with Prettier
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
@@ -85,7 +85,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] Add the section heading "My Hobbies"
 - [x] Add the UNORDERED list of 4 hobbies
 - [x] Add the section heading "Contact Me"
-- [ ] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
+- [x] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
 - [x] Add Discord as a service and your discord's real username as a value to the table.
 - [x] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
 - [x] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
@@ -105,7 +105,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] The skills list should have the id of "skills-list"
 - [x] The Hobbies section heading should have the id of "hobbies"
 - [x] The hobbies list should have the id of "hobbies-list"
-- [ ] The contacts section heading should have the id of "contacts"
-- [ ] The contacts table should have a class name of "contacts-table".
-- [ ] The body should have a class name of "fancy-body".
-- [ ] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p2-solved-mockup.png).
+- [x] The contacts section heading should have the id of "contacts"
+- [x] The contacts table should have a class name of "contacts-table".
+- [x] The body should have a class name of "fancy-body".
+- [x] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p2-solved-mockup.png).
